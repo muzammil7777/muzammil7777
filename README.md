@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzammil
+# 👋 Hi, I'm Muzammil, but you can call me Muzu
 
 **`📱🚀 Passionate iOS Developer Turning Ideas into Reality 🌟`**
 
