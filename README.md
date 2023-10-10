@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muzammil
 
-**` iOS Developer with a Passion`**
+**`📱🚀 Passionate iOS Developer Turning Ideas into Reality 🌟`**
 
 ### 💼 **[My GitHub Portfolio](https://github.com/muzammil7777/muzammilpathan)**
 
