@@ -32,7 +32,7 @@
 - 💳 Payment Gateways: PayPal SDK, PayUmoney, Paytm, Razorpay, Paytabs, Apple Pay
 - 📸 Media Processing: Camera, Image, Video, and Audio Processing
 - 🔐 Security: Apple Keychain, SHA Hashing, MD5, MD6 Hashing
-- 📲 Apple Services: In-App Purchases, Push Notifications, MapKit, Accelerometer, Location Services, Family Controls, Device Activity, Manager Settings, and more
+- 📲 Apple Services: In-App Purchases, Push Notifications, MapKit, Accelerometer, Location Services, Family Controls, ManageSettings, and more
 - 🧩 Other: Known in SOLID principles and experienced in various architectural patterns like MVC, MVP, MVVM
 
 Let's connect and create something amazing together! Feel free to explore my portfolio and reach out if you'd like to discuss iOS development, collaborate on a project, or simply chat about tech over a virtual cup of coffee.
