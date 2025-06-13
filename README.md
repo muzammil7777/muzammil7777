@@ -7,7 +7,7 @@
 ---
 
 ### About
-- 📱 8+ years of native iOS experience, specializing in creating high-quality applications.
+- 📱 9+ years of native iOS experience, specializing in creating high-quality applications.
 - 🤝 Passionate about user experience and building strong customer relationships.
 - 💪 Self-motivated, honest, and goal-oriented individual dedicated to growth.
 - 🌟 Proven track record in building complex applications from scratch, releasing on the App Store, and continuous updates.
